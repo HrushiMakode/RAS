@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Staff Login</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<body>
+  <form class="bx dx" action="../Staf_log" method="POST">
+    <h1>Teacher Login</h1>
+    <input class="bx__textbox" type="text" name="email" placeholder="PICT Email Id" required>
+    <input class="bx__textbox" type="password" name="password" id="" placeholder="Password" required>
+    <a class="bx__rec" href="#" onclick="recoveryform()">Forgot password?</a>
+    <input class="bx__button" type="submit" value="Log in">
+    <p class="bx__signup">Don't have account?
+      <a class="bx__signuplink" href="staf_reg.html" onclick="regform()">Sign up</a>
+    </p>
+  </form>
+
+  <form class="bx rec_pass" action="" method="POST">
+    <h1>Password recovery</h1>
+    <input class="bx__textbox" type="email" name="email" placeholder="Email" required>
+    <input class="bx__button" type="submit" value="Recovery">
+  </form>
+</body>
+  <script  src="./script.js"></script>
+
+</body>
+</html>
