@@ -25,6 +25,8 @@ University results of students pursuing their under-graduation are currently sen
  * **JDBC** (Connectivity)
  * **TomCat** (Server)
 
+<hr>
+<hr>
 
 **The end users of this utility are as follows:**
 
