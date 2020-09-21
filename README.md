@@ -8,6 +8,23 @@ Analysis of the scoring system it shows by the grade wise result of individual s
 
 University results of students pursuing their under-graduation are currently sent to the respective colleges via a PDF format soft copy. These results are manually entered by the teachers and faculty into an excel sheet for evaluating the overall result. This method however is time consuming and repetitive and is inefficient in evaluating the result and does not provide proper insights of these results. Hence in order to quickly and efficiently evaluate and visualize these results, there is a need of an automated utility that will take the university result as input, in PDF format and generate a spreadsheet of these results, effortlessly visualize these results on a dashboard in the form of charts and graphs, perform basic analysis on these results and display trends and variations of past and latest results. The utility should be capable of performing the above tasks both for individual result records as well as the results as a whole. The utility should have proper functionalities and access controls for each individual end user such as i)Teaching Faculty &amp; other college staff ii)Head of Department iii) Principal iv)Student.
 
+**ER-Diagram**
+
+<a href="https://ibb.co/LkDX4p1"><img src="https://i.ibb.co/znWTKfZ/ER-Diagram.png" alt="ER-Diagram" border="0"></a>
+
+**Flow of our project:- (Diagram)**
+
+<a href="https://ibb.co/j452YN5"><img src="https://i.ibb.co/ysR1C9R/Flow-Diagram.png" alt="Flow-Diagram" border="0"></a>
+
+
+
+
+### Tech Stack
+ * **BootStrap 4,JSP** (Front End)
+ * **MySQL** (Database)
+ * **JDBC** (Connectivity)
+ * **TomCat** (Server)
+
 
 **The end users of this utility are as follows:**
 
@@ -31,15 +48,6 @@ University results of students pursuing their under-graduation are currently sen
 1. Create and manage student profiles.
 2. Display all personal results.
 3. Compare Results.
-
-**ER-Diagram**
-
-<a href="https://ibb.co/LkDX4p1"><img src="https://i.ibb.co/znWTKfZ/ER-Diagram.png" alt="ER-Diagram" border="0"></a>
-
-**Flow of our project:- (Diagram)**
-
-<a href="https://ibb.co/j452YN5"><img src="https://i.ibb.co/ysR1C9R/Flow-Diagram.png" alt="Flow-Diagram" border="0"></a>
-
 
 
 
