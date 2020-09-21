@@ -43,7 +43,7 @@ University results of students pursuing their under-graduation are currently sen
 
 
 
-**Purpose**** :**
+**Purpose**
 
 In a manual system i.e. manually uploading the results, is a very time-consuming process. Teacher has to manually analyze the results and getting an overview of the result is difficult. For Students, there is no direct accessibility to all his previous results at any time . In our project the teacher has to just upload the current year result file and all analysis (overall and subject wise ) will be performed by the system.The system also computes year-wise trends to show a comparison of the current result with the previous year. Students can have access to their results at any time.
 
