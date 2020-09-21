@@ -11,7 +11,7 @@ University results of students pursuing their under-graduation are currently sen
 
 **The end users of this utility are as follows:**
 
-1. **Teacher**  **/ Professor**
+**1) Teacher**  **/ Professor**
 
 1. Create and manage a teacher/ professor profile.
 2. Input a PDF result file and generate spreadsheet output of the same.
