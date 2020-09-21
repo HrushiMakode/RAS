@@ -34,7 +34,7 @@ University results of students pursuing their under-graduation are currently sen
 
 **ER-Diagram**
 
-![](https://ibb.co/LkDX4p1)
+<a href="https://ibb.co/LkDX4p1"><img src="https://i.ibb.co/znWTKfZ/ER-Diagram.png" alt="ER-Diagram" border="0"></a>
 
 **Flow of our project:- (Diagram)**
 
