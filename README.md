@@ -1,5 +1,5 @@
 # Project Name :: RAS (Result Analysis System)
-# DBMS Mini Project :: 
+## DBMS Mini Project :: 
 
 ## Abstract
 Analysis of the scoring system it shows by the grade wise result of individual subject and final result also display grade wise.depending on its range of marks. The project can be easily used in college for college result analysis of student. It reduces time which required for manual calculation.
@@ -38,7 +38,7 @@ University results of students pursuing their under-graduation are currently sen
 
 **Flow of our project:- (Diagram)**
 
-![](RackMultipart20200921-4-17mvi3a_html_1ac9292ce8d5a4c9.png)
+<a href="https://ibb.co/j452YN5"><img src="https://i.ibb.co/ysR1C9R/Flow-Diagram.png" alt="Flow-Diagram" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload image</a><br />
 
 
 
