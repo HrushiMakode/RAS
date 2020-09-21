@@ -38,7 +38,7 @@ University results of students pursuing their under-graduation are currently sen
 
 **Flow of our project:- (Diagram)**
 
-<a href="https://ibb.co/j452YN5"><img src="https://i.ibb.co/ysR1C9R/Flow-Diagram.png" alt="Flow-Diagram" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload image</a><br />
+<a href="https://ibb.co/j452YN5"><img src="https://i.ibb.co/ysR1C9R/Flow-Diagram.png" alt="Flow-Diagram" border="0"></a>
 
 
 
